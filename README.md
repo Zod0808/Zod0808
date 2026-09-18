@@ -53,6 +53,12 @@ Full-stack platform: Node.js/Express REST API, PostgreSQL, an Android app (Capac
   <img src="https://github-profile-trophy.vercel.app/?username=Zod0808&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
 </p>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zod0808/Zod0808/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zod0808/Zod0808/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/Zod0808/Zod0808/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ---
 
 ## 📫 Let's connect
