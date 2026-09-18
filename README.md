@@ -40,8 +40,14 @@ Full-stack platform: Node.js/Express REST API, PostgreSQL, an Android app (Capac
 
 ## 📊 GitHub Stats
 
-![Cesar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zod0808&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zod0808&layout=compact&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zod0808&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" alt="Cesar's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zod0808&layout=compact&hide_border=true&cache_seconds=1800" alt="Top languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zod0808&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
