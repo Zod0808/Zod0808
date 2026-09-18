@@ -2,6 +2,10 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=Zod0808&label=Profile%20views&color=0e75b6&style=flat)
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+</p>
+
 **Backend Developer** · Systems Engineering & Information Security student
 📍 Tacna, Peru · 🌐 Open to remote work and freelance projects · 🗣️ Spanish (native) · English (advanced)
 
@@ -72,6 +76,10 @@ Full-stack platform: Node.js/Express REST API, PostgreSQL, an Android app (Capac
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zod0808/Zod0808/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub contributions snake animation" src="https://raw.githubusercontent.com/Zod0808/Zod0808/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zod0808/Zod0808/main/github-metrics.svg" alt="GitHub metrics" />
+</p>
 
 ---
 
