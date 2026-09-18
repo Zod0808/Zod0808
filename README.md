@@ -1,9 +1,20 @@
 # Hi, I'm Cesar 👋
 
+![Profile views](https://komarev.com/ghpvc/?username=Zod0808&label=Profile%20views&color=0e75b6&style=flat)
+
 **Backend Developer** · Systems Engineering & Information Security student
 📍 Tacna, Peru · 🌐 Open to remote work and freelance projects · 🗣️ Spanish (native) · English (advanced)
 
 I build backend systems and APIs, with a security-focused mindset from my Information Security background. I like turning real problems into working software — from IoT data pipelines to REST APIs and mobile apps.
+
+---
+
+## 🌱 Currently
+
+- 🚀 Building **Respicare** — web & mobile platform for respiratory disease detection in Tacna
+- 🔧 Improving **CIUDATA** — expanding sensor coverage and gamification features
+- 📚 Learning advanced backend patterns, cloud deployment, and offensive security techniques
+- 🎯 Open to backend / full-stack roles and freelance work
 
 ---
 
@@ -31,7 +42,10 @@ I build backend systems and APIs, with a security-focused mindset from my Inform
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
+
+**[Respicare](https://github.com/Zod0808/Sistema-Web-y-M-vil-para-la-detecci-n-de-enfermedades-respiratorias-en-Tacna-en-2026)** — Web & mobile system for respiratory disease detection in Tacna
+Ongoing mega-project combining backend services, mobile clients, and health-data workflows to support early detection at a regional scale.
 
 **[CIUDATA](https://github.com/Zod0808/ciudata)** — Smart environmental monitoring for Tacna
 Full-stack platform: Node.js/Express REST API, PostgreSQL, an Android app (Capacitor), and a live Leaflet map with citizen gamification. Backend deployed on Render.
