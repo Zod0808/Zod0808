@@ -49,6 +49,10 @@ Full-stack platform: Node.js/Express REST API, PostgreSQL, an Android app (Capac
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zod0808&hide_border=true" alt="GitHub streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Zod0808&no-frame=true&no-bg=true&margin-w=6&column=7" alt="GitHub trophies" />
+</p>
+
 ---
 
 ## 📫 Let's connect
